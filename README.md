@@ -93,8 +93,6 @@ This project is for **educational purposes only**. Please review IMDb's [Terms o
 ## 👤 Author
 
 **Ajay Verma**
-MCA (AI/ML & Data Science) — S-VYASA Deemed University, Bengaluru
-
 ---
 
 ## 📄 License
